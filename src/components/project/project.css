@@ -1,0 +1,73 @@
+.main-projects{
+    margin-top: 128px;
+}
+.projects{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.projects h2{
+    font-size: 48px;
+    font-weight: 600;
+}
+.div a{
+    text-decoration: none;
+    color: #000;
+}
+.view-more{
+    color: #2405F2;
+    margin-left: 5px;
+}
+.project-bcg{
+    background: url(../../../public/images/human.png);
+    width: 843px;
+    height: 600px;
+    position: relative;
+    
+}
+.projects-section{
+    display: flex;
+    margin-top: 64px;
+}
+.projects-text {
+    content: "";
+    position: absolute;
+    left: 0; right: 446px;;
+    top: 0; bottom: 0;
+    background: linear-gradient(329.39deg, #1C1E53 -10.96%, rgba(28, 30, 83, 0.42) 103.96%);     
+  }
+  .project-bcg h2{
+    font-size: 24px;
+    font-weight: 600;
+    padding-left: 48px;
+    padding-top: 312px;
+    color: white;
+    
+  }
+  .project-bcg p{
+    padding-left: 48px;
+    padding-top: 16px;
+    color: white;
+  }
+.project-link{
+    margin-left: 48px;
+    margin-top: 40px;
+}
+.project-link a{
+    text-decoration: none;
+    color: #FCD980;
+}
+.view-more-1 {
+    color: #FCD980;
+    margin-left: 8px;
+}
+.project-single{
+    margin-left: 23px;
+    margin-bottom: 128px;
+}
+.project-item3{
+    margin-top: 26px;
+    margin-left: 10px;
+}
+  

@@ -1,0 +1,46 @@
+.inputtodo{
+    height: 50px;
+    width: 400px;
+    border: 2px solid tomato !important
+}
+.todobtn{
+    height: 50px;
+    width: 100px;
+    background-color: tomato;
+    color: #fff;
+    border-radius: 10px;
+    margin-left: 5px;
+}
+.btncng{
+    margin-top: 10px;
+}
+.show-data ul{
+    margin-top: 10px;
+    padding: 0 !important;
+}
+.show-data ul li{
+    padding: 15px 0px;
+    background-color: tomato;
+    color: #fff;
+    width: 400px;
+    margin: 0 auto;
+}
+.onee{
+    text-align: center;
+    position: relative;
+}
+.icon-del{
+    position: absolute;
+    right: 10px;
+    top: 20px;
+    transform: translate(-50%);
+}
+.edite{
+    position: absolute;
+    right: 35px;
+    top: 20px;
+    transform: translate(-50%);
+}
+
+
+

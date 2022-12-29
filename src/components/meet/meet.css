@@ -1,0 +1,67 @@
+.meet{
+    width: 100%;
+    height: 712px;
+    background-color: #F4F6FC;
+    margin-top: 128px;
+}
+.meet-heading h2{
+    text-align: center;
+    font-size: 48px;
+    font-weight: 600;
+    padding-top: 148px;
+}
+.meet-images{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 48px;
+}
+.img-1{
+    height: 344px;
+    width: 296px;
+    background-color: white;
+    position: relative;
+    
+}
+#top{
+    padding-top: 95px;   
+}
+.top-top{
+    margin-left: 41px;
+}
+.img-overlay{
+    background: url(../../../public/images/tem-1.png);
+    width: 168px;
+    height: 168px;
+    position: relative;
+    top: 48px;
+    margin-left: 64px;
+    
+}
+.img-overlay-2{
+    background: url(../../../public/images/tem-2.png);
+}
+.img-overlay-3{
+    background: url(../../../public/images/tem-3.png);  
+}
+.img-overlay-4{
+    background: url(../../../public/images/tem-4.png);  
+}
+.img-overlay-style:hover{
+    position: absolute;
+    left: 0; right: 0px;;
+    top: 0; bottom: 0;
+    border-radius: 50%;
+    background: linear-gradient(329.39deg, #1C1E53 -10.96%, rgba(28, 30, 83, 0.42) 103.96%); 
+    
+}
+
+.top h6{
+    font-size: 24px;
+    font-weight: 500;
+    padding-top: 60px;
+    text-align: center;
+}
+.top p{
+    color: #1D2130;
+    text-align: center;
+}

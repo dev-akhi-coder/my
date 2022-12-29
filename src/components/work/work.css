@@ -1,0 +1,72 @@
+.work{
+    background-color: #F4F6FC;
+    height: 601px;
+}
+.work-details{
+    padding-top: 128px;
+    
+}
+.change-work{
+    display: flex;
+}
+.we-work{
+    Width:405px;
+    Height:184px;
+}
+.we-work h2{
+    font-size: 48px;
+    font-weight: 600;
+    color: #282938;
+}
+.we-work p{
+    font-weight: 400;
+    color: #282938;
+    padding-top: 16px;
+}
+.touch-1{
+    margin-top: 20px;
+}
+.touch-1 a{
+    font-size: 18px;
+    color: #2405F2;
+    text-decoration: none;
+    font-weight: 500;
+
+}
+.arrow{
+    color: #2405F2;
+    margin-left: 8px;
+}
+.work-section{
+    height: 405px;
+    width: 656px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    margin-left: 142px;
+    
+    
+}
+.work-section h5{
+    padding-top: 16px;
+    font-size: 32px;
+    font-weight: 500;
+}
+.work-section p{
+    padding-top: 8px;
+    color: #282938;
+    line-height: 28px;
+    
+   
+}
+.card{
+    height: 178px;
+    width: 328px;
+
+
+}
+.gap{
+    margin-top: 48px;
+}
+.card{
+    margin-left: 8px;
+}

@@ -1,0 +1,44 @@
+.features{
+    width: 100%;
+    background-color: #F4F6FC;
+    height: 1191px;
+}
+.features-heading{
+    text-align: center;
+    padding-top: 128px;
+    padding-bottom: 47px;
+}
+.features-heading p{
+    font-weight: 500;
+}
+.features-heading h2{
+    font-size: 48px;
+    font-weight: 600;
+}
+.fetures-card{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 20px;
+}
+.card-details{
+    background-color: white;
+    width: 405px;
+    height: 316px;
+}
+.card-details-part{
+    padding-left: 48px;
+}
+.card-details-part h6{
+    margin-top: 22px;
+    font-size: 24px;
+    font-weight: 500;
+}
+.card-details-part p{
+    margin-top: 12px;
+    color: #282938;
+}
+.icon-item{
+    padding-top: 58px;
+    font-size: 32px;
+    color: #2405F2;
+}

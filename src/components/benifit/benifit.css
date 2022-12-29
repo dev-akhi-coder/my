@@ -1,0 +1,56 @@
+.benefits{
+    margin-top: 128px;
+}
+.fetures-card{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 20px;
+}
+.card-details{
+    width: 405px;
+    height: 316px;
+}
+.change{
+    background-color: #EEF4FA;
+}
+.card-details-part{
+    padding-left: 48px;
+}
+.card-details-part h6{
+    margin-top: 22px;
+    font-size: 24px;
+    font-weight: 500;
+}
+.card-details-part p{
+    margin-top: 12px;
+    color: #282938;
+}
+.icon-item{
+    padding-top: 58px;
+    font-size: 32px;
+    color: #2405F2;
+}
+.work-heading h2{
+    font-size: 48px;
+    font-weight: 600;
+    text-align: center;
+    padding-bottom: 48px;
+}
+.user{
+    height: 84px;
+    width: 176px;
+}
+.companies{
+    margin-top: 48px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.user h3{
+    font-size: 38px;
+    font-weight: 600;
+}
+.lorem{
+    height:32px;
+    width: 161px;
+}

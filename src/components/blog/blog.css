@@ -1,0 +1,44 @@
+.main-card{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    padding-bottom: 5rem;
+}
+.blog-title{
+    margin-top: 110px;
+}
+.blog-title h2{
+    font-size: 48px;
+    font-weight: 600;
+}
+.card-seond{
+    height: 609px;
+    width: 406px;
+    margin-top: 60px;
+
+
+}
+.card-seond img{
+    width: 100%;
+}
+.label{
+   margin-top: 40px;
+   color:  #282938;
+}
+.card-details p{
+    color: #282938;
+    padding-top: 16px;
+}
+.card-details h6{
+    font-size: 24px;
+    padding-top: 16px;
+}
+.more{
+    text-decoration: none;
+    padding-top: 32px;
+}
+.more a{
+    text-decoration: none;
+    color: #000;
+    font-weight: 600;
+}

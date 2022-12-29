@@ -1,0 +1,79 @@
+.client{
+    width: 100%;
+    height: 506px;
+    background-color: #f9fafd;
+}
+.client-headr{
+    padding-top: 130px;
+    display: flex;
+}
+.client-left{
+    height: 184px;
+    width: 327px;
+}
+.client-left h3{
+    font-size: 38px;
+    font-weight: 600;
+}
+.client-left p{
+    padding-top: 16px;
+    color: #282938;
+}
+.client-right{
+    height: 250px;
+    width: 843px;
+    margin-left: 110px;
+
+
+}
+.client-right h5{
+    font-size: 32px;
+    font-weight: 500;
+}
+.president-left{
+    display: flex;
+    align-items: center;
+    margin-top: 48px;
+}
+.prisedent{
+    margin-top: 48px;
+    display: flex;
+}
+.prisedent-name h5{
+    font-size: 18px;
+    padding-left: 14px;
+}
+.prisedent-name h6{
+    font-size: 12px;
+    padding-left: 14px;
+}
+.president-right{
+    height: 48px;
+    width: 107px;
+}
+.president{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.i-left{
+    position: absolute;
+    width: 70px;
+    height: 30px;
+    cursor: pointer;
+    z-index: 1;
+    right: 50px;
+    bottom: 0px;
+    text-align: center;
+    line-height: 30px;
+}
+.i-right{
+    position: absolute;
+    height: 30px;
+    cursor: pointer;
+    z-index: 1;
+    right: 30px;
+    bottom: 0px;
+    text-align: center;
+    line-height: 30px;
+}

@@ -1,0 +1,44 @@
+.process-details{
+    height: 156px;
+    width: 296px;
+}
+.process-main{
+    margin-top: 128px;
+    
+}
+.process-main h2{
+    text-align: center;
+    margin-bottom: 48px;
+    font-size: 48px;
+} 
+.process-eq{
+    display: flex;
+    justify-content: space-between;
+}
+.ball-dash{
+    display: flex;
+    align-items: center;
+}
+.ball{
+    height: 24px;
+    width: 24px;
+    border-radius: 50%;
+    background-color: #2405F2;
+}
+.dash{
+    width: 224px;
+    border-top: 2px dashed #2405F2;
+    margin-left: 24px;
+    
+}
+.process-details-hd{
+    margin-top: 32px;
+}
+.process-details-hd h6{
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 32px;
+}
+.process-details-hd p{
+    color: #282938;
+}

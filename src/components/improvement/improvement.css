@@ -1,0 +1,38 @@
+.improvement{
+    margin-top: 128px;
+}
+.improvement-details{
+    height: 716px;
+    width: 100%;
+}
+.up-container{
+    width: 100%;
+    height: 50%;
+    background-color:#F4F5F5 ;
+}
+.improvment-up{
+    height: 216px;
+    width: 1092px;
+    margin-left: 79px;
+    padding-top: 80px;
+    display: flex;
+    align-items: center;
+}
+.improvement-left h3{
+    font-size: 38px;
+    font-weight: 600;
+}
+.improvement-left p{
+    color: #282938;
+}
+.improvement-right{
+    margin-left: 61px;
+}
+.improvement-right h3{
+    font-size: 38px;
+    font-weight: 600;
+}
+.improvement-right p{
+    
+    color:#282938 ;
+}
